@@ -20,3 +20,6 @@ curl -X POST "http://localhost:8000/reason" \
 
 ### GET /health
 curl http://localhost:8000/health
+
+## Model Weights
+Download best.pt from Google Drive: https://drive.google.com/file/d/1aZU9n7_-mebAVBZl6Rg3WQ9Q1s9aOZ8C/view?usp=sharing
